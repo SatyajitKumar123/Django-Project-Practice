@@ -1,5 +1,6 @@
 ﻿# Django-Project-Practice
 
 In this I created raw dynamic calender.
-![Screenshot](.assets/image/Screenshot.png)
+![Screenshot of dynamic calender](assets/image/Screenshot.png)
+
 
